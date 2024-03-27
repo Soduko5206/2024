@@ -1,0 +1,13 @@
+1.	项目介绍，问项目的问题
+2.	问这个算法比赛是什么
+3.	Osi七层模型，网络层协议 Udp了解吗
+4.	java集合排序再分组（我没听懂） 我说Collections.sort() ,然后排序完 .stream().map(()=>()) 后来感觉是在问，stream().sorted(()->()).collect()
+5.	java8 特性有哪些：我没怎么说出来，没看这一部分，stream lambda 之类的
+6.	java并发相关的类有哪些，我说了几个，说到线程池被问下一个问题
+7.	线程池参数有哪些，含义是什么
+8.	Collections.toList 是否线程安全（我没听出来问的啥，后来感觉是这个）
+9.	Jvm内存模型：我不知道问的是java内存模型还是jvm内存结构，我回答了后者。感觉错了
+10.	Spring aop了解吗：我没回答出来，大寄
+算法题：力扣82：https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/ 看错题意以为重复的要留一个，好在重写之后过了。
+
+流程好像才45min，写题就写了20min
