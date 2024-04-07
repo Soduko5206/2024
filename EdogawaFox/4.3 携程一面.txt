@@ -1,6 +1,6 @@
 1.自我介绍
 
-2.mysql事务ACDC
+2.mysql事务ACID
 
 3.mysql索引，如何避免回表（覆盖索引）
 
