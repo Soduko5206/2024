@@ -1,0 +1,14 @@
+1、Java的线程怎么用
+2、线程池的参数有哪些
+3、线程池的最大线程数和核心线程数怎么设置
+4、线程池的拒绝策略有哪些
+5、ThreadLocal是什么
+6、ThreadLocal的实现原理
+7、mysql索引是什么
+8、如何选择合适的字段作为索引
+9、怎么通过索引查到数据的
+10、redis怎么用的
+11、redis用过哪些数据结构
+12、项目redis
+13、手撕：https://leetcode.cn/problems/insert-delete-getrandom-o1/description/
+14、手撕：https://leetcode.cn/circle/discuss/fbhhev/
