@@ -10,5 +10,6 @@
 10、redis怎么用的
 11、redis用过哪些数据结构
 12、项目redis
-13、手撕：https://leetcode.cn/problems/insert-delete-getrandom-o1/description/
-14、手撕：https://leetcode.cn/circle/discuss/fbhhev/
+13、session和cookie
+14、手撕：https://leetcode.cn/problems/insert-delete-getrandom-o1/description/
+15、手撕：https://leetcode.cn/circle/discuss/fbhhev/
