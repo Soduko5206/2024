@@ -1,0 +1,15 @@
+国际化电商 风控部门
+
+1. 项目
+2. TCP 拥塞控制
+3. 数据库 ACID 每个解释，每个性质是如何保证的。MVCC、临键锁、undo log、redo log。
+4. 如何提高数据库的并发能力：
+   mysql集群 + 分表，redis 集群，布隆过滤器。  
+5. SQL：求每个位置不同的用户数量，从大到小排序
+  select position, count(distinct(user_id))
+  from student_profile
+  group by position
+  order by count(distinct(user_id)) desc;
+6. 最长不重复子串
+
+大约 50 min。
