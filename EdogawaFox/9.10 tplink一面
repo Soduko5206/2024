@@ -1,0 +1,13 @@
+1.介绍项目
+
+2.java是编译型还是解释型（混合），java编译过程
+
+3.接口和抽象类的异同，使用上，包含内容上，用途
+
+4.equals和==的区别
+
+5.String str="i" 和String str = new String("i")的区别
+
+6.String ，StringBuilder，StringBuffer区别
+
+7.final关键字作用在类，方法，成员变量上分别有什么作用
