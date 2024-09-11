@@ -1,0 +1,13 @@
+1. 项目
+
+2. mysql：事务ACID、问题、级别；慢查询；联合索引、索引失效
+
+3. 网络：HTTP和HTTPS区别；TLS握手过程、证书；HTTP几个版本；TCP和UDP的区别；键入网址的过程；DNS；ARP
+
+4. redis：跳表实现和时间复杂度
+
+5. elsaticsearch：有没有用到分片
+
+6. os：进程和线程的区别；进程间通信；具体讲讲共享内存，效率；讲讲虚拟内存，分段分页
+
+7. 前k个高频元素：https://leetcode.cn/problems/g5c51o/description/
