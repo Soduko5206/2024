@@ -1,0 +1,25 @@
+1.java面向对象的理解，多态的概念
+
+2.jdbc 原理，连接过程
+
+3.二进制流转字符流操作，是什么设计模式
+
+4.jvm参数设置以及如何调优
+
+5.spring 和springboot
+
+6.spring boot 加载过程
+
+7.aop与oop 区别
+
+8.spring bean的概念，为什么要有bean
+
+9.threadlocal的作用，为什么要有threadlocal，threadlocal在线程池中的问题
+
+10.jvm如何输出GC日志，加什么参数
+
+12.如何分析处理OOM
+
+手撕：
+sql
+数组，不重复元素，可以重复取数，和为x的种类有哪些
