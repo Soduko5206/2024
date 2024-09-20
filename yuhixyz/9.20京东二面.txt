@@ -5,6 +5,7 @@
 5. mysql开放性讲，聚簇索引是什么，和非聚簇索引的区别；事务隔离级别，怎么保证的。
 6. java多线程，讲一下synchroized关键字 
 7. hashmap, concurrentHashMap
+8. 一致性哈希
 
 无手撕，业务：零售出口/进口，3轮技术面，hr面在72h内。
 35min
